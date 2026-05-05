@@ -52,7 +52,7 @@ village_scene/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/village-riverside-scene.git
+git clone https://github.com/abdeyrabby404/Computer-Graphics-project--beautiful-village
 cd village-riverside-scene
 
 # Run the project
