@@ -53,7 +53,7 @@ village_scene/
 ```bash
 # Clone the repository
 git clone https://github.com/abdeyrabby404/Computer-Graphics-project--beautiful-village
-cd village-riverside-scene
+cd Computer-Graphics-project--beautiful-village
 
 # Run the project
 python main.py
